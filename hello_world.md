@@ -1,4 +1,5 @@
-### This is how it starts:
-###### Some post-midnight delirium, and it will be terrible, and I will re-read in the morning and cackle at the weighty overconfident conviction of my words. Delete them all. Ctrl-z, return to salvage some straggling phrase that insists on being saved.
+## This is how it starts:
+### Some post-midnight delirium, and it will be terrible, and I will re-read in the morning and cackle at the weighty overconfident conviction of my words. Delete them all. Ctrl-z, return to salvage some straggling phrase that insists on being saved.
 Only this time my second guesses and atrocious sleep habits are written into the history of this repository--can I call this a history? The word implies these thoughts deserve documentation and revisitation, but here documentation is rather automatic, so. Alright, a history, to account for any future person perusing this.
+
 For those visitors who may be less familiar with GitHub, in order to place these thoughts in the public repository I must first "add" then "commit" then "push" them. The term "commit" feels apropos here: that is the step when the scribe named git marks my changes, the time (oh dear), a descriptive (read: rambling) message documenting my intentions. That scribe stops in the middle of its scribblings sometimes, and I imagine it peering over spectacles to sneer at me: "is that really a change you would like to make?" or "can you remind me exactly why you chose to do that?" and I have to breathe for a second before committing and submitting myself to the public eye.
